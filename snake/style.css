@@ -2,6 +2,7 @@ body {
     text-align:center;
     font-family: helvetica;
   }
-  canvas {
+canvas {
     border: 2px solid rgb(151, 149, 149);
-  }
+    background-color: black; /* Set a background color to make the canvas visible */
+}
